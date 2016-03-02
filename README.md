@@ -24,6 +24,6 @@ http://www.tiaowiki.com/forums/index.php?topic=4334.0<br>
 1) sudo kextunload /System/Library/Extensions/FTDIUSBSerialDriver.kext/ <br>
 2) sudo kextload /System/Library/Extensions/FTDIUSBSerialDriver.kext/ <br>
 3) csrutil status <br>
-4) nvram -xp
-5) kextstat 
+4) nvram -xp<br>
+5) kextstat <br>
 
