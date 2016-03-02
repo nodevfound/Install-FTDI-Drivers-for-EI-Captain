@@ -1,4 +1,4 @@
-# Steps to Install-FTDI-Drivers-for-EI-Captain for TIAO 
+# Steps To Install-FTDI-Drivers-for-EI-Captain For TIAO 
 
 Issue: Not able to load unsigned kext kernel module for FTDI driver, the following steps disable the OSX system intergrity protection to load the FTDI driver. It is not safe and not a long term solution. 
 
