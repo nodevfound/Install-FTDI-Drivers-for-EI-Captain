@@ -12,15 +12,13 @@ https://developer.apple.com/library/mac/documentation/Security/Conceptual/System
 
 4) sudo kextload /System/Library/Extensions/FTDIUSBSerialDriver.kext/ <br>
 
-
-***TO NOTE***:<br>
-Addtional Notes at FTDI Site, but it does not work for the EI-CAPTAIN:
+***To Note***:<br>
+Addtional Notes at FTDI Site, but it does not work for the EI-Captain:
 http://www.ftdichip.com/Support/Documents/AppNotes/AN_134_FTDI_Drivers_Installation_Guide_for_MAC_OSX.pdf
 
 ***Useful Links***<br>
 http://www.mommosoft.com/blog/2014/10/24/ftdi-chip-and-os-x-10-10/<br>
 http://www.tiaowiki.com/forums/index.php?topic=4334.0<br>
-
 
 ***Useful Commands***<br>
 1) sudo kextunload /System/Library/Extensions/FTDIUSBSerialDriver.kext/ <br>
